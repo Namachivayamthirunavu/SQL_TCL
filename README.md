@@ -1,8 +1,9 @@
 # Experiment 6: Implementation of SQL for TCL Commands
 
-Royce Niran George A
-
-212223060231
+```
+Name : Namachivayam T
+Reg No : 212223060179
+```
 
 ## Aim
 
